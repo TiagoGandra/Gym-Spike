@@ -164,11 +164,11 @@ Para rodar a aplicação é necessário ter Git Bash e Node (versão v22.12.0 ut
 Rode este código no terminal:
 
 ```bash
-git clone https://github.com/Apogeu-Solutions/PS24.2-G02.git
-cd PS24.2-G02
+git clone https://github.com/TiagoGandra/Gym-Spike.git
+cd Gym-Spike
 ```
 
-**Importante**: É necessário abrir um terminal dentro da pasta do projeot para rodar cada instância do projeto
+**Importante**: É necessário abrir um terminal dentro da pasta do projeto para rodar cada instância do projeto
 
 ### Inicialização do back-end
 
@@ -179,7 +179,7 @@ STRING_CONNECTION = // Sua connection string
 PORT = 5000 // Ou a porta que deseja utilizar
 ```
 
-Rodando o servidor no termial:
+Rodando o servidor no terminal:
 
 ```bash
 cd scr/back-end
